@@ -1,0 +1,2 @@
+getting the username: whoami 
+ getting the list of groups the current user is part of: groups whoami
