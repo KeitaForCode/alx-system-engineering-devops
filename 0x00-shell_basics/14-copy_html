@@ -1,1 +1,2 @@
-cp -v *.html
+#!/bin/bash
+cp -nu *.html ..

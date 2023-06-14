@@ -1,1 +1,2 @@
-cd /user/bin
+#!/bin/bash
+pwd
