@@ -1,2 +1,2 @@
-adding execute permission: chmod ug+x hello 
- adding read permission to other users: chmod o+r hello
+#!/bin/bash
+chmod u+x,g+x,o+r hello
